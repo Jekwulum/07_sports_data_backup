@@ -2,7 +2,7 @@
 **Week 3 - Day 3:** Building an automated Sports Data Backup
 
 ## Automated Sports Data Backup
-![Project Structure](05_azure_highlight_processor.drawio.png)
+![Project Structure](07_sports_data_backup.png)
 
 ## Project Overview
 This project automates the process of fetching sports highlights, storing the data in **Azure Blob Storage**, **CosmosDB**. It also processes the data to retrieve and save the video files (higlights) in **Azure Blob Storage**. The application is containerized using **Docker** and deployed to **Azure Container Apps**. It runs on a schedule using **Azure Container Apps Jobs**.
